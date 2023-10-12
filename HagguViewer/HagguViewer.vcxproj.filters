@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\001.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\002.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\003.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\004.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\005.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\006.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\007.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\008.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\009.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\010.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\011.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\012.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\013.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\014.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\015.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\016.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\017.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\018.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\019.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\020.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\021.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\022.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\023.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\024.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\Acer\Desktop\Mr Haggu\025.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

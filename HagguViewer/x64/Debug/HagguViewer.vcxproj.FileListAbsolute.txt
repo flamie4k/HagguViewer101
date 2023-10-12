@@ -1,0 +1,3 @@
+D:\.Studies\Coding\C++\GUI_C++\HagguViewer\HagguViewer\x64\Debug\HagguViewer.vcxproj.AssemblyReference.cache
+D:\.Studies\Coding\C++\GUI_C++\HagguViewer\HagguViewer\x64\Debug\HagguViewer.MyForm.resources
+D:\.Studies\Coding\C++\GUI_C++\HagguViewer\HagguViewer\x64\Debug\HagguViewer.vcxproj.GenerateResource.cache

@@ -13,6 +13,6 @@ class data{
         int in_out[6] = {0,0,0,0,0,0};
     public:
         data(){
-            cout<<"Press the corresponding numbers for to execute the following commands : "
+            cout<<"Press the corresponding numbers for to execute the following commands : ";
     } 
 };
